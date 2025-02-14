@@ -15,7 +15,7 @@ Meu nome é **Brendo Santiago** e sou **brasileiro** 🇧🇷. Bem-vindo ao meu 
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=BrendoSantiago&show_icons=true&theme=vision-friendly-dark"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendoSantiago&layout=pie&theme=vision-friendly-dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendo-Santiago&layout=pie&theme=vision-friendly-dark"/>
   </div>
 </div>
 
