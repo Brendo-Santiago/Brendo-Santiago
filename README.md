@@ -6,7 +6,7 @@ Meu nome é **Brendo Santiago** e sou **brasileiro** 🇧🇷. Bem-vindo ao meu 
 
 ## Sobre Mim
 
-- ☕ Atualmente, estou aprendendo **Java** para aprimorar minhas habilidades de programação.
+- ☕ Sou programador Java
 - 🌐 Tenho um grande interesse em **desenvolvimento web**, onde busco criar aplicações interativas e funcionais.
 
 ---
