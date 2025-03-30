@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Meu nome é **Brendo Santiago** e sou **brasileiro** 🇧🇷. Bem-vindo ao meu perfil do GitHub!
+Meu nome é **Brendo Santiago**. Bem-vindo ao meu perfil do GitHub!
 
 ---
 
@@ -23,7 +23,7 @@ Meu nome é **Brendo Santiago** e sou **brasileiro** 🇧🇷. Bem-vindo ao meu 
 
 - ### Linguagens de Programação
 
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 - ### Frameworks & Ferramentas
 
@@ -31,11 +31,11 @@ Meu nome é **Brendo Santiago** e sou **brasileiro** 🇧🇷. Bem-vindo ao meu 
 
 - ### IDEs & GUI
 
-    [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white&style=plastic)](#)
+    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 - ### Ambiente
 
-    [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white&style=plastic)](#) 
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&style=plastic&logoColor=black)
+    ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+    ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ---
