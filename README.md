@@ -4,31 +4,38 @@ Meu nome é **Brendo Santiago**. Bem-vindo ao meu perfil do GitHub!
 
 ---
 
-<div align="center" class="flex-container">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Brendo-Santiago&show_icons=true&theme=vision-friendly-dark"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendo-Santiago&layout=pie&theme=vision-friendly-dark"/>
-  </div>
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brendo-Santiago&theme=github_dark"
+    alt="Linguagens por repositório"
+  />
 </div>
 
 ---
 
-- ### Linguagens de Programação
+## 💻 Tecnologias
 
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### Linguagens
 
-- ### Frameworks & Ferramentas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-    [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+### Frameworks
 
-- ### IDEs & GUI
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+### Ferramentas
 
-- ### Ambiente
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-    ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-    ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+### Ambiente
+
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ---
+
+## 📫 Contato
+
+<a href="https://discord.com/users/367445868585943041">
+  <img src="https://img.shields.io/badge/Discord-weedbt-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
