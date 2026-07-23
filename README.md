@@ -37,5 +37,5 @@ Meu nome é **Brendo Santiago**. Bem-vindo ao meu perfil do GitHub!
 ## 📫 Contato
 
 <a href="https://discord.com/users/367445868585943041">
-  <img src="https://img.shields.io/badge/Discord-weedbt-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-Weed-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
