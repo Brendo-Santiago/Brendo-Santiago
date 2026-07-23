@@ -4,13 +4,6 @@ Meu nome é **Brendo Santiago**. Bem-vindo ao meu perfil do GitHub!
 
 ---
 
-## Sobre Mim
-
-- ☕ Sou programador Java
-- 🌐 Tenho um grande interesse em **desenvolvimento web**, onde busco criar aplicações interativas e funcionais.
-
----
-
 <div align="center" class="flex-container">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Brendo-Santiago&show_icons=true&theme=vision-friendly-dark"/>
