@@ -4,15 +4,6 @@ Meu nome é **Brendo Santiago**. Bem-vindo ao meu perfil do GitHub!
 
 ---
 
-<div align="center">
-   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brendo-Santiago&theme=github_dark"
-    alt="Estatísticas do GitHub"
-  />
-</div>
-
----
-
 ## 💻 Tecnologias
 
 ### Linguagens
